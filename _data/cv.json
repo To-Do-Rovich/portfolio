@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Lindsey Todorovich",
+    "email": "lntodorovich@gmail.com",
+    "phone": "210-787-9298",
+    "website": "https://to-do-rovich.github.io/portfolio/",
+    "summary": "Currently employed at the University of Texas at Dallas. I am a current MLS student at Texas Woman's University",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Dallas",
       "countryCode": "US",
-      "region": ""
+      "region": "'Texas"
     },
     "profiles": [
       {
@@ -33,16 +33,16 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Texas Woman's University",
+      "area": "Master of Library Sciece",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "startDate": "2024",
+      "endDate": "2025",
+      "gpa": 4.0,
+      "courses": ["Cataloging & Classification""Advanced Cataloging & Classification" "Web Development for the Information Profession"]
     },
     {
-      "institution": "GitHub University",
+      "institution": "Oklahoma City University",
       "area": "M.S. in Jekyll",
       "studyType": "",
       "startDate": "",
