@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem "al_folio_core"
 gem 'jekyll'
 
 # Core plugins that directly affect site building
